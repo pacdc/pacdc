@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pacdc
 - 👀 I’m interested in digital stuff that make the life easier not harder
 - 🌱 I’m currently learning .. a lot 
-- 💞️ I’m looking to collaborate on ... secure private homeserver
+- 💞️ I’m looking to collaborate on ... makin the world a better place
 - 📫 How to reach me ... here I guess
 - 😄 Pronouns: ... not sure
 - ⚡ Fun fact: ... our brain is actually able to overcome our animal behaviour
